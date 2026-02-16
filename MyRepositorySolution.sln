@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITCompany", "ITCompany\ITCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{BAAFC6B8-BCDC-4474-ABA0-4C2B1448536F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneShop", "TelephoneShop\TelephoneShop.csproj", "{6F9E8E44-8836-40D2-8EA5-B38B38FC4FEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BAAFC6B8-BCDC-4474-ABA0-4C2B1448536F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAAFC6B8-BCDC-4474-ABA0-4C2B1448536F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAAFC6B8-BCDC-4474-ABA0-4C2B1448536F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9E8E44-8836-40D2-8EA5-B38B38FC4FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9E8E44-8836-40D2-8EA5-B38B38FC4FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9E8E44-8836-40D2-8EA5-B38B38FC4FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9E8E44-8836-40D2-8EA5-B38B38FC4FEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
