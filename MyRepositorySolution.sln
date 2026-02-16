@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usernames", "Usernames\User
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberDivision", "NumberDivision\NumberDivision.csproj", "{EA3932FD-2ACB-4008-8221-83EE9436660C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Uchitel", "Uchitel", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuvejdaneNaUchiteli", "VuvejdaneNaUchiteli\VuvejdaneNaUchiteli.csproj", "{409EB9BC-25F9-4406-85BF-B783D7D865C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,9 +67,16 @@ Global
 		{EA3932FD-2ACB-4008-8221-83EE9436660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA3932FD-2ACB-4008-8221-83EE9436660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA3932FD-2ACB-4008-8221-83EE9436660C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409EB9BC-25F9-4406-85BF-B783D7D865C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409EB9BC-25F9-4406-85BF-B783D7D865C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409EB9BC-25F9-4406-85BF-B783D7D865C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409EB9BC-25F9-4406-85BF-B783D7D865C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{409EB9BC-25F9-4406-85BF-B783D7D865C4} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5A57A04-248A-45CB-9AD1-07DE1FB582B2}
