@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzi-AI", "Dzi-AI\Dzi-AI.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nmerologiq", "Nmerologiq\Nmerologiq.csproj", "{50DA269A-9527-4A33-8866-CCBBDFF4FB84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha", "Zadacha\Zadacha.csproj", "{C679CFD4-6891-422F-905D-E6D4B98C473E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50DA269A-9527-4A33-8866-CCBBDFF4FB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50DA269A-9527-4A33-8866-CCBBDFF4FB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50DA269A-9527-4A33-8866-CCBBDFF4FB84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C679CFD4-6891-422F-905D-E6D4B98C473E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C679CFD4-6891-422F-905D-E6D4B98C473E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C679CFD4-6891-422F-905D-E6D4B98C473E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C679CFD4-6891-422F-905D-E6D4B98C473E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
