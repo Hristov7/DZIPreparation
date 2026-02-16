@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nmerologiq", "Nmerologiq\Nm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha", "Zadacha\Zadacha.csproj", "{C679CFD4-6891-422F-905D-E6D4B98C473E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisla", "Chisla\Chisla.csproj", "{47C04251-0BA4-480F-99F6-A4C3D536FECB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C679CFD4-6891-422F-905D-E6D4B98C473E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C679CFD4-6891-422F-905D-E6D4B98C473E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C679CFD4-6891-422F-905D-E6D4B98C473E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C04251-0BA4-480F-99F6-A4C3D536FECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C04251-0BA4-480F-99F6-A4C3D536FECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C04251-0BA4-480F-99F6-A4C3D536FECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C04251-0BA4-480F-99F6-A4C3D536FECB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
