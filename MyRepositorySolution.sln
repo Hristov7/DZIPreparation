@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaFactory", "PizzaFactor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrikingContest", "StrikingContest\StrikingContest.csproj", "{315971C6-35E8-43D0-960A-57BFEFE6ED14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vodomeri", "Vodomeri\Vodomeri.csproj", "{83E30DC0-17FC-458C-A2AA-B0F0DD443F83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{315971C6-35E8-43D0-960A-57BFEFE6ED14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{315971C6-35E8-43D0-960A-57BFEFE6ED14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{315971C6-35E8-43D0-960A-57BFEFE6ED14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E30DC0-17FC-458C-A2AA-B0F0DD443F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E30DC0-17FC-458C-A2AA-B0F0DD443F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E30DC0-17FC-458C-A2AA-B0F0DD443F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E30DC0-17FC-458C-A2AA-B0F0DD443F83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
